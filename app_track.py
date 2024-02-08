@@ -8,7 +8,7 @@ from tabulate import tabulate
 
 process_time = {}
 timestamp = {}
-line_token = 'ogu9h4VhMWXziauDCgL8nKNKOnzGynV7JWVCPzqYezV'
+line_token = '***********************************'
 line_url = 'https://notify-api.line.me/api/notify'
 header = {'Content-type': 'application/x-www-form-urlencoded', 'Authorization': 'Bearer ' + line_token}
 
